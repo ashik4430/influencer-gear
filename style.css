@@ -29,6 +29,9 @@ cursor: pointer;
 width: fit-content;
 height: fit-content;
 }
+.btn-primary:hover {
+background-color: #c02660;
+}
 .dark1 {
 color: #3A3A3A;
 }
